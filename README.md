@@ -9,7 +9,7 @@ The goal of this analysis is to provide insights into customer purchase behavior
 ## Dataset Overview
 The dataset used for this analysis contains transactional data of customers who purchased products from Walmart stores during Black Friday. The key features of the dataset are as follows:
 
-- **Dataset Link**: [Walmart_data.csv](Walmart_data.csv)
+- **Dataset Link**: [Walmart_data.csv](https://github.com/mrankit560/Walmart-Confidence-Interval-and-CLT/blob/main/walmart_data.csv)
 - **User_ID**: User ID
 - **Product_ID**: Product ID
 - **Gender**: Sex of the user
