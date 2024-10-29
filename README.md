@@ -50,7 +50,7 @@ Based on the analysis, the following recommendations are suggested:
    ```bash
    git clone https://github.com/your-username/repository-name.git
    ```
-2. Open the Jupyter notebook (`Retail_Purchase_Analysis.ipynb`) to explore the analysis and insights derived from the dataset.
+2. Open the Jupyter notebook (`Retail_Analysis.ipynb`) to explore the analysis and insights derived from the dataset.
 3. Review the dataset file (`purchase_data.csv`) for a detailed view of the purchase behavior metrics used in the analysis.
 
 ## License
