@@ -1,4 +1,4 @@
-# Retail Purchase Behavior Analysis
+# Top Retail Purchase Behavior Analysis
 
 ## Overview
 This project focuses on analyzing customer purchase behavior during a major retail event for a top retail company in Western countries. Utilizing concepts from confidence intervals and the Central Limit Theorem (CLT), the goal is to provide insights into spending patterns across different demographics, enhancing marketing and sales strategies.
